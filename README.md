@@ -56,5 +56,8 @@ The objective of this project was to generate gross profit reports by processing
 
 The project resulted in a streamlined data processing system that reduced manual intervention, improved data processing efficiency, and ensured timely report generation. This system enhanced the overall data analysis capabilities and allowed the team to focus on more strategic tasks.
 
+
+**Architectural Diagram**
+
 ![image](https://github.com/user-attachments/assets/c0df8110-a498-47e9-8c5f-6975b97fda0e)
 
